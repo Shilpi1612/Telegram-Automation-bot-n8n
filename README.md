@@ -72,6 +72,7 @@ graph TD
     G -->|Generate| I[Caption & Hashtags]
     H & I --> J[n8n Output Handler]
     J -->|Send| K[User Receives Final Post on Telegram]
+```
 
 
 Step-by-Step Process:
